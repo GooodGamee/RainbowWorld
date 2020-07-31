@@ -3,7 +3,7 @@
 
 ![RainbowWorld](https://i.imgur.com/8IYxbJ2.png)
 
-###### ВАЖНО! Данная тема тестировалась и писалась на движке Powercord, на BetterDiscord'e работать не будет работать!
+###### ВАЖНО! Данная тема тестировалась и писалась на движке Powercord, на BetterDiscord'e работать не будет!
 ###### IMPORTANT! This theme was tested and written on the Powercord engine, it won't work on Betterdiscord!
 
 Ссылки / Links:
