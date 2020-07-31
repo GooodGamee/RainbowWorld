@@ -1,4 +1,4 @@
-#  RaindowWorld
+#  **RaindowWorld**
 ## Радужная тема для дискорда (Powercord) / Rainbow theme for Discord (Powercord)
 
 ![RainbowWorld](https://i.imgur.com/8IYxbJ2.png)
@@ -7,9 +7,6 @@
 ###### IMPORTANT! This theme was tested and written on the Powercord engine, it won't work on Betterdiscord!
 
 Ссылки / Links:
-
-[Powercord](https://powercord.dev)
-
-Discord: @GooodGame#4099
-
-[За основу была взята эта тема](https://github.com/qAndroidGit/rounded-dark-theme)
+1. [Powercord](https://powercord.dev)
+2. Discord: @GooodGame#4099
+3. [За основу была взята эта тема](https://github.com/qAndroidGit/rounded-dark-theme)
