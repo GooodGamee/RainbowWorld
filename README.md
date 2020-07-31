@@ -9,7 +9,7 @@
 2) Или просто скачайте архив и закиньте его содержание в папку с темами.
 
 ###### ВАЖНО! Данная тема тестировалась и писалась на движке Powercord, на BetterDiscord'e работать не будет!
-###### IMPORTANT! This theme was tested and written on the Powercord engine, it won't work on Betterdiscord!
+###### IMPORTANT! This theme was tested and written on the Powercord engine, it won't work on BetterDiscord!
 
 Ссылки / Links:
 1. [Powercord](https://powercord.dev)
