@@ -746,11 +746,6 @@ animation: rainbow 2s ease infinite;
 animation: rainbow 2s ease infinite;
 }
 
-/**
- * Сниппер из #css-snippets применён 27 июл. 2020 г. в 10:25:50
- * Создан Saternity#4838 (624558613540896768)
- * Snippet ID: 737203432774959174
- */
 @keyframes UwU {
     from {background-color: #6666ff;}
     10% {background-color: #0099ff;}
@@ -762,8 +757,6 @@ animation: rainbow 2s ease infinite;
 .powercord-spotify .spotify-seek-bar-progress {
     animation: UwU 10s ease-in-out infinite; 
 }
-/*//META{"name":"Horizontal Serverlist","description":"Moves the server list from the left to the top of Discord. Also allows for adjusting the size of the server icons. Customizable in the file or Custom CSS tab. To minimize compatibility issues, enable this theme last. Compatibility List can be found in My Account","author":"Gibbu","version":"1.0"}*//**/
-/* rounded corners */
 .connectedAccount-36nQx7{
   border-radius: 24px;
 }
