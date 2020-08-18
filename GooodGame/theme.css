@@ -1014,3 +1014,69 @@ animation: rainbow 2s ease infinite;
 .attachButtonPlay-3iJ0mf {
   color: var(--spotify-color);
 }
+.vp-audioviz-bar {
+  animation: advzbck 10s linear infinite
+}
+@keyframes advzbck {
+  0%, 100% {
+    background-color: #FF9AA2
+  }
+  17% {
+    background-color: #FFB7B2
+  }
+  34% {
+    background-color: #FFDAC1
+  }
+  51% {
+    background-color: #E2F0CB
+     
+  } 
+  68% {
+    background-color: #B5EAD7
+  } 
+  85% {
+    background-color: #C7CEEA
+  }
+  
+  
+}
+
+.total-members-count:first-child span {
+  color: #747F8D;
+}
+
+.total-members-count:last-child span {
+  color: #3FAC7A;
+}
+
+.total-members-count:first-child {
+  margin-bottom: 5px;
+}
+
+.profileBadgeVerifiedDeveloper-4WY75k {
+  zoom: 120%;
+  position: relative;
+  top: -2px;
+}
+
+.topSectionSpotify-1lI0-P, .headerSpotify-zpWxgT.header-2BwW8b.size16-14cGz5 {
+    background-color: var(--background-tertiary);
+}
+
+.topSectionPlaying-1J5E4n,
+.headerPlaying-j0WQBV {
+   background-color: var(--background-tertiary)
+}
+
+.header-QKLPzZ .actionButton-3W1xZa {
+    background-color: #43b581;
+    color: #ffffff
+}
+
+#pinned-messages .edited-3sfAzf {
+  display: flex
+}
+
+.spoilerText-3p6IlD.hidden-HHr2R9:hover .inlineContent-3ZjPuv {
+    opacity: 1;
+}
