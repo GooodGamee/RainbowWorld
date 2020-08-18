@@ -14,5 +14,5 @@
 
 Ссылки / Links:
 1. [Powercord](https://powercord.dev)
-2. Discord: @GooodGame#4099
+2. [Discord Server](https://discord.gg/hEDYs2t) / @GooodGame#4099
 3. [За основу была взята эта тема / This theme was taken as a basis](https://github.com/qAndroidGit/rounded-dark-theme)
