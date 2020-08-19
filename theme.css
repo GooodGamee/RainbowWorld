@@ -1101,3 +1101,47 @@ animation: rainbow 2s ease infinite;
     padding-top: 0px;
     padding-bottom: 0px;
 }
+@keyframes rainbow-is-pog {
+  0%   {color: violet;}
+  20%  {color: indigo;}
+  40%  {color: lightblue;}
+  60%  {color: green;}
+  80%  {color: yellow;}
+  100% {color: red;}
+}
+
+.usernameContainer-1fp4nu .title-eS5yk3 {
+    animation: rainbow-is-pog 10s linear infinite;
+}
+
+.spoilerText-3p6IlD.hidden-HHr2R9:hover .inlineContent-3ZjPuv {
+    opacity: 1;
+    background-color: #323232;
+    border-radius: 3px;
+}
+
+@keyframes rainbow-is-pog {
+    from {color: #6666ff;}
+    10%  {color: #0099ff;}
+    50%  {color: #00ff00;}
+    75%  {color: #ff3399;}
+    100% {color: #6666ff;}
+}
+
+.powercord-spotify .spotify-buttons .contents-18-Yxp {
+  animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+
+
+@keyframes rainbow-is-pog {
+    from {color: #6666ff;}
+    10%  {color: #0099ff;}
+    50%  {color: #00ff00;}
+    75%  {color: #ff3399;}
+    100% {color: #6666ff;}
+  
+}
+
+.usernameContainer-1fp4nu .title-eS5yk3 {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
