@@ -1,4 +1,4 @@
-#  **RaindowWorld**
+#  **RainbowWorld**
 ## Радужная тема для дискорда (Powercord) / Rainbow theme for Discord (Powercord)
 
 ![RainbowWorld](https://i.imgur.com/8IYxbJ2.png)
