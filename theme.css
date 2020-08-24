@@ -729,7 +729,6 @@ div[id="message-actions"]:hover {
 .children-19S4PO {
 	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
 -webkit-background-clip: text;
--webkit-text-fill-color: transparent;
 animation: rainbow 2s ease infinite;
 }
 .name-3YKhmS {
@@ -1100,4 +1099,74 @@ animation: rainbow 2s ease infinite;
 .container-3FojY8 {
     padding-top: 0px;
     padding-bottom: 0px;
+}
+@keyframes rainbow-is-pog {
+  0%   {color: violet;}
+  20%  {color: indigo;}
+  40%  {color: lightblue;}
+  60%  {color: green;}
+  80%  {color: yellow;}
+  100% {color: red;}
+}
+
+.usernameContainer-1fp4nu .title-eS5yk3 {
+    animation: rainbow-is-pog 10s linear infinite;
+}
+
+.spoilerText-3p6IlD.hidden-HHr2R9:hover .inlineContent-3ZjPuv {
+    opacity: 1;
+    background-color: #323232;
+    border-radius: 3px;
+}
+
+@keyframes rainbow-is-pog {
+    from {color: #6666ff;}
+    10%  {color: #0099ff;}
+    50%  {color: #00ff00;}
+    75%  {color: #ff3399;}
+    100% {color: #6666ff;}
+}
+
+.powercord-spotify .spotify-buttons .contents-18-Yxp {
+  animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+
+
+@keyframes rainbow-is-pog {
+    from {color: #6666ff;}
+    10%  {color: #0099ff;}
+    50%  {color: #00ff00;}
+    75%  {color: #ff3399;}
+    100% {color: #6666ff;}
+  
+}
+
+.usernameContainer-1fp4nu .title-eS5yk3 {
+    animation: rainbow-is-pog 10s ease-in-out infinite;
+}
+.navList-2UtuhC {
+  margin: -10px;
+}
+.topPill-30KHOu {
+  	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+-webkit-background-clip: text;
+animation: rainbow 2s ease infinite;
+}
+.title-29uC1r {
+  	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+-webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+animation: rainbow 2s ease infinite;
+}
+.topic-TCb_qw {
+  	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+-webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+animation: rainbow 2s ease infinite;
+}
+.themed-OHr7kt {
+  	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+-webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+animation: rainbow 2s ease infinite;
 }
