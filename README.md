@@ -1,4 +1,4 @@
-#  **RaindowWorld**
+#  **RainbowWorld**
 ## Радужная тема для дискорда (Powercord) / Rainbow theme for Discord (Powercord)
 
 ![RainbowWorld](https://i.imgur.com/8IYxbJ2.png)
@@ -6,7 +6,7 @@
 ##### Last update 19.08.2020 / Последнее обновление 19.08.20
 # Как установить / How to install?
 
-1) Напишите это в вашем .css файле / Write in your custom css file this - `@import url("https://github.com/GooodGamee/RaindowWorld/blob/master/GooodGame/theme.css")`
+1) Напишите это в вашем .css файле / Write in your custom css file this - `@import url("https://gooodgamee.github.io/RaindowWorld/theme.css");`
 2) Или просто скачайте архив и закиньте его содержание в папку с темами.
 
 ###### ВАЖНО! Данная тема тестировалась и писалась на движке Powercord, на BetterDiscord'e работать не будет!
