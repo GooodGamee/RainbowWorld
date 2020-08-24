@@ -741,7 +741,6 @@ animation: rainbow 2s ease infinite;
 .lowerBadge-29hYVK {
 	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
 -webkit-background-clip: text;
-	
 animation: rainbow 2s ease infinite;
 }
 
