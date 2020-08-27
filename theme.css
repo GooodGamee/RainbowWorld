@@ -306,8 +306,6 @@ div[aria-label="Explore Public Servers"]{ display: none; }
   color: #7289da;
 }
 
-.buttonWrapper-1ZmCpA {display: none;}
-
 @keyframes bruh {
   0%{background-position:2% 0%}
 	25%{background-position:66% 100%}
@@ -1143,9 +1141,7 @@ animation: rainbow 2s ease infinite;
 .usernameContainer-1fp4nu .title-eS5yk3 {
     animation: rainbow-is-pog 10s ease-in-out infinite;
 }
-.navList-2UtuhC {
-  margin: -10px;
-}
+
 .topPill-30KHOu {
   	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
 -webkit-background-clip: text;
@@ -1203,9 +1199,6 @@ animation: rainbow 2s ease infinite;
 .userPopout-3XzG_A[aria-label="Clyde"] .headerTagUsernameNoNickname-2_H881:after {content: var(--local-bot-name);visibility: visible}
 .userPopout-3XzG_A[aria-label="Clyde"] .headerTagNoNickname-ENx6no {margin-left: -35px}
 
-.navList-2UtuhC {
-    display: none;
-}
 .positionContainer-DEuh7X:not(.positionContainerEditingMessage-13cck-) .drawerSizingWrapper-17Mss4 .contentWrapper-SvZHNd #gif-picker-tab-panel, .positionContainer-DEuh7X:not(.positionContainerEditingMessage-13cck-) .drawerSizingWrapper-17Mss4 .contentWrapper-SvZHNd #emoji-picker-tab-panel {
     margin-top: -35px !important;
 }
@@ -1213,6 +1206,7 @@ animation: rainbow 2s ease infinite;
 .nav-7UD0KD {
     height: 0px !important;
 }
+
 .emojiPickerInExpressionPicker-3IzIcv .categoryList-2Kzf65 {
     transform: rotate(-90deg) translateX(-111px) translateY(190px);
 }
@@ -1231,6 +1225,7 @@ animation: rainbow 2s ease infinite;
 .drawerSizingWrapper-27qFHb {
     max-width: 424px;
 }
+
 .resizeHandle-3NRr0z {
     display: none;
     cursor: default;
