@@ -1158,17 +1158,26 @@ animation: rainbow 2s ease infinite;
 animation: rainbow 2s ease infinite;
 }
 .topic-TCb_qw {
-  	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
--webkit-background-clip: text;
- -webkit-text-fill-color: transparent;
-animation: rainbow 2s ease infinite;
-}
-.item-PXvHYJ {
-  	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 animation: rainbow 2s ease infinite;
 }
+.item-PXvHYJ {
+background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+-webkit-background-clip: text;
+animation: rainbow 2s ease infinite;
+}
+.messagesPopout-24nkyi {
+height: 814px;
+}
+
+<!----.selected-3s45Ha {
+background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+animation: rainbow 2s ease infinite;
+}--->
 .akaBadge-1M-1Gw {
  	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
 -webkit-background-clip: text;
