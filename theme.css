@@ -1189,10 +1189,10 @@ animation: rainbow 2s ease infinite;
 }
 
 .localBot-GrCgVt .header-23xsNx .username-1A8OIy {visibility: hidden}
-.localBot-GrCgVt .header-23xsNx .username-1A8OIy:after {content: var(--local-bot-name);visibility:visible;margin-left: -72px}
+.localBot-GrCgVt .header-23xsNx .username-1A8OIy:after {content: var(--local-bot-name);visibility:visible;margin-left: -35px}
 .userPopout-3XzG_A[aria-label="Clyde"] .headerTagUsernameNoNickname-2_H881 {visibility: hidden}
 .userPopout-3XzG_A[aria-label="Clyde"] .headerTagUsernameNoNickname-2_H881:after {content: var(--local-bot-name);visibility: visible}
-.userPopout-3XzG_A[aria-label="Clyde"] .headerTagNoNickname-ENx6no {margin-left: -72px}
+.userPopout-3XzG_A[aria-label="Clyde"] .headerTagNoNickname-ENx6no {margin-left: -35px}
 
 .navList-2UtuhC {
     display: none;
