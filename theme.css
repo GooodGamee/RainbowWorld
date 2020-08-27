@@ -1244,3 +1244,39 @@ animation: rainbow 2s ease infinite;
     height: 440px;
     width: 428px;
 }
+.badge-1Skb69 .numberBadge-2s8kKX .base-PmTxvP {
+	 	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+animation: rainbow 2s ease infinite;
+}
+.item-3HknzM .item-PXvHYJ .themed-OHr7kt {
+		 	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+animation: rainbow 2s ease infinite;
+}
+.container-3baos1 {
+    background-color: #202225;
+    border: 0.1px solid #36383a;
+    border-radius: 10px;
+}
+
+.panels-j1Uci_ {
+	background-color: #202225;
+}
+.spotify-seek-elements {
+height: 1px !important;
+}
+
+.powercord-spotify.hover {
+height: 75px !important;
+}
+
+.spotify-seek-duration {
+  margin-top: -10px;
+}
+
+.spotify-seek-bar {
+  margin-left: 7px;
+}
