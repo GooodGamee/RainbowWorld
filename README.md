@@ -3,7 +3,7 @@
 
 ![RainbowWorld](https://i.imgur.com/8IYxbJ2.png)
 
-##### Last update 19.08.2020 / Последнее обновление 19.08.20
+##### Last update 29.08.2020 / Последнее обновление 19.08.20
 # Как установить / How to install?
 
 1) Напишите это в вашем .css файле / Write in your custom css file this - `@import url("https://gooodgamee.github.io/RaindowWorld/theme.css");`
