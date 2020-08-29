@@ -1292,3 +1292,11 @@ height: 75px !important;
 .fontSize16Padding-3Wk7zP {
  padding-left: 10px;
 }
+.scrollerBase-289Jih::-webkit-scrollbar-track {
+    background-color: #2c2f33;
+  border-radius: 10px;
+}
+.scrollerBase-289Jih::-webkit-scrollbar {
+  background-color: #2c2f33;
+  border-radius: 10px;
+}
