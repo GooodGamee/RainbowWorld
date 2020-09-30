@@ -306,6 +306,25 @@ div[aria-label="Explore Public Servers"]{ display: none; }
   color: #7289da;
 }
 
+@keyframes bruh {
+  0%{background-position:2% 0%}
+	25%{background-position:66% 100%}
+	50%{background-position:99% 100%}
+	75%{background-position:66% 100%}
+	100%{background-position:2% 0%}
+}
+:root {
+  --margin: 3px;
+  --color6: #00ff00;
+  --color2: #0000ff;
+	--color4: #ff0000;
+	--color3: #ffff00;
+  --color5: #19ff19;
+	--color1: #00ffff;
+  --degree: 10deg;
+  --animationDuration: 7s;
+  --titlebarOpacity: 0.6;
+}
 .app-2rEoOp{
   margin: var(--margin);
   border-radius: var(--rounded-corners);
@@ -551,6 +570,14 @@ svg[name="Nova_Help"] {
 .containerDefault-3GGEv_ {
   text-align: center;
 }
+
+.container-2ax-kl {
+	  background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	animation: rainbow 2s ease infinite;
+}
+
 .button-14-BFJ{
   transition: 0.2s;
 }
