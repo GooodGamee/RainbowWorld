@@ -1428,3 +1428,22 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .CodeMirror-code {
   font-size: 1.1rem; 
 }
+@keyframes bruh {
+  0%{background-position:2% 0%}
+	25%{background-position:66% 100%}
+	50%{background-position:99% 100%}
+	75%{background-position:66% 100%}
+	100%{background-position:2% 0%}
+}
+:root {
+  --margin-top: 3px;
+  --color6: #00ff00;
+  --color2: #0000ff;
+	--color4: #ff0000;
+	--color3: #ffff00;
+  --color5: #19ff19;
+	--color1: #00ffff;
+  --degree: 10deg;
+  --animationDuration: 7s;
+  --titlebarOpacity: 0.6;
+}
