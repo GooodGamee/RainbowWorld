@@ -670,8 +670,6 @@ div[id="message-actions"]:hover {
     color: #6666ff;
   }
 }
-
-
 .scroller-2FKFPG {
 	border-radius: 0 !important;
 }
@@ -686,13 +684,6 @@ div[id="message-actions"]:hover {
 -webkit-background-clip: text;
 animation: rainbow 2s ease infinite;
 }
-.name-3YKhmS {
-	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-animation: rainbow 2s ease infinite;
-}
-
 .lowerBadge-29hYVK {
 	background: linear-gradient(to right, rgb(101, 214, 66), rgb(224, 195, 66), rgb(241, 45, 45));
 -webkit-background-clip: text;
