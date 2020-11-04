@@ -9,8 +9,8 @@
 1) Напишите это в вашем .css файле / Write in your custom css file this - `@import url("https://gooodgamee.github.io/RaindowWorld/theme.css");`
 2) Или просто скачайте архив и закиньте его содержание в папку с темами.
 
-###### ВАЖНО! Данная тема тестировалась и писалась на движке Powercord, на BetterDiscord'e работать не будет!
-###### IMPORTANT! This theme was tested and written on the Powercord engine, it won't work on BetterDiscord!
+###### ВАЖНО! Данная тема тестировалась и писалась на движке Powercord, на BetterDiscord'e может работать неправильно!
+###### IMPORTANT! This theme was tested and written on the Powercord engine, it will not work correctly on BetterDiscord!
 
 Ссылки / Links:
 1. [Powercord](https://powercord.dev)
