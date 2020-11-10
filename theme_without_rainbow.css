@@ -1644,3 +1644,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .name-3l27Hl {
   display: flex; justify-content: center;
 }
+.header-2V-4Sw {
+  background-color: #202225;
+  height: 35px;
+}
