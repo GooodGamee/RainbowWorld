@@ -1501,3 +1501,6 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
     top: calc(100% + var(--replies-padding));
     white-space: nowrap;
 }
+.listItem-GuPuDH {
+  -webkit-transform: rotate(90deg);
+}
