@@ -6,7 +6,7 @@
 ##### Last update 22.04.2021 / Последнее обновление 22.04.2021
 # Как установить / How to install?
 
-1) Напишите это в вашем .css файле / Write in your custom css file this - `@import url("https://gooodgamee.github.io/RaindowWorld/theme.css");`
+1) Напишите это в вашем .css файле / Write in your custom css file this - `@import url("https://gooodgamee.github.io/RainbowWorld/theme.css");`
 2) Или просто скачайте архив и закиньте его содержание в папку с темами.
 
 ###### ВАЖНО! Данная тема тестировалась и писалась на движке Powercord, на BetterDiscord'e может работать неправильно!
