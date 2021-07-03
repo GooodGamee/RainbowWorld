@@ -94,7 +94,7 @@
 	font-size: 16px;
 	font-family: franklin gothic medium;
 	font-weight: 700;
-	text-shadow: #000 2px 0px 2px, #000 0px 2px 2px, #000 0px -2px 2px, #000 -2px 0px 2px;
+	text-shadow: #000 1px 0px 1px, #000 0px 1px 1px, #000 0px -1px 1px, #000 -1px 0px 1px;
 	color: #f0f0f0;
 	position: absolute;
 	width: 4000px;
