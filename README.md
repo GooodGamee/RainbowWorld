@@ -3,11 +3,10 @@
 
 ![RainbowWorld](https://imgur.com/E20fMOw.png)
 
-##### Last update 22.04.2021 / Последнее обновление 22.04.2021
+##### Last update 03.07.2021 / Последнее обновление 03.07.2021
 # Как установить / How to install?
 
-1) Напишите это в вашем .css файле / Write in your custom css file this - `@import url("https://gooodgamee.github.io/RainbowWorld/theme.css");`
-2) Или просто скачайте архив и закиньте его содержание в папку с темами.
+Просто скачайте архив и закиньте его содержание в папку с темами. / Just download the archive and upload its contents to the themes folder.
 
 ###### ВАЖНО! Данная тема тестировалась и писалась на движке Powercord, на BetterDiscord'e может работать неправильно!
 ###### IMPORTANT! This theme was tested and written on the Powercord engine, it will not work correctly on BetterDiscord!
@@ -15,4 +14,3 @@
 Ссылки / Links:
 1. [Powercord](https://powercord.dev)
 2. [Discord Server](https://discord.gg/hEDYs2t) / @GooodGame#7526
-3. [За основу была взята эта тема / This theme was taken as a basis](https://github.com/qAndroidGit/rounded-dark-theme)
