@@ -1,0 +1,33 @@
+/* source */
+@import url("https://gooodgamee.github.io/RainbowWorld/src/source.css");
+/* 
+888888ba           oo          dP                           dP   dP   dP                   dP       dP dP     dP d8888b. 
+88    `8b                      88                           88   88   88                   88       88 88     88     `88 
+a88aaaa8P'.d8888b. dP 88d888b. 88d888b. .d8888b. dP  dP  dP 88  .8P  .8P .d8888b. 88d888b. 88 .d888b88 88    .8P  aaad8' 
+88   `8b. 88'  `88 88 88'  `88 88'  `88 88'  `88 88  88  88 88  d8'  d8' 88'  `88 88'  `88 88 88'  `88 88    d8'     `88 
+88     88 88.  .88 88 88    88 88.  .88 88.  .88 88.88b.88' 88.d8P8.d8P  88.  .88 88       88 88.  .88 88  .d8P      .88 
+dP     dP `88888P8 dP dP    dP 88Y8888' `88888P' 8888P Y8P  8888' Y88'   `88888P' dP       dP `88888P8 888888'   d88888P 
+ */
+:root {
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --text-normal: #dcddde;
+    --text-muted: #72767d;
+    --text-link: #3D89C9;
+    --channels-default: #8e9297;
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: #4f545c;
+    --background-primary: #1A1C1E;
+    --background-secondary: #1A1C1E;
+    --background-tertiary: #1A1C1E;
+    --background-accent: #3D89C9;
+    --background-floating: #181a1b;
+    --background-modifier-hover: #1d1f22;
+    --background-modifier-active: #3a3f44;
+    --background-modifier-selected: #2e3236;
+    --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+    --channeltextarea-background: #2e3236;
+    --activity-card-background: #1A1C1E;
+}

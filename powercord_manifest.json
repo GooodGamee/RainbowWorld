@@ -1,0 +1,10 @@
+{
+    "name": "RainbowWorld",
+    "description": "Need more rainbow...",
+    "version": "3.0.0",
+    "author": "GooodGame",
+    "theme": "index.css",
+    "consent": "false",
+    "splashTheme": "splash.css",
+    "license": "MIT"
+}
