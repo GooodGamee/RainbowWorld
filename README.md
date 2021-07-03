@@ -1,7 +1,7 @@
 #  **RainbowWorld**
 ## Радужная тема для дискорда (Powercord) / Rainbow theme for Discord (Powercord)
 
-![RainbowWorld](https://i.imgur.com/8IYxbJ2.png)
+![RainbowWorld](https://imgur.com/E20fMOw.png)
 
 ##### Last update 22.04.2021 / Последнее обновление 22.04.2021
 # Как установить / How to install?
