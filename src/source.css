@@ -1,22 +1,15 @@
 @import "https://luckfire.github.io/theme-source/src/css-compile/ThemeSource-Compiled.css";
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css");
-/* forked off Theme-Source by LuckFire, amazing person */
-/* "I was thinking of making pretty much everything round though" well here you go kix - ruben */
 
-/* popup/confirmation boxes */
 .theme-dark .message-2qRu38 { background-color: #1A1C1E; }
 .theme-dark .root-1gCeng { background-color: #1A1C1E; }
 .theme-dark .footer-2gL1pp { background-color: #151718; }
-/* reactions */
 .reactors-Blmlhw.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: #1A1C1E; }
 .scroller-1-nKid.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: #1A1C1E; }
-/* upload popup */
 .uploadModal-2ifh8j { background-color: #1A1C1E; }
 .footer-3mqk7D { background-color: #151718; }
-/* text channel creation */
 .modal-2VIBV8.root-1gCeng.small-3iVZYw.fullscreenOnMobile-1bD22y { background-color: #1A1C1E; }
 .modal-2VIBV8.root-1gCeng > .footer-2gL1pp { background-color: #151718; }
-/* roundify more things */
 .content-1x5b-n,
 .layout-2DM8Md {
     border-radius: 50px;
@@ -30,14 +23,9 @@
 .reactions-12N0jA .reaction-1hd86g {
   border-radius: 15px !important;
 }
-
-/* snippets taken from the powercord community, each having the id to the original message */
-
-/* Have the # symbol glow white when the channel is unread - 818383883870666772 */
 .modeUnread-1qO3K1>div>a>div>.icon-1DeIlz{
   color:#b9bbbe;
 }
-/* mobile jump to present bar - 821960077132038184 */ 
 .jumpToPresentBar-G1R9s6{
     visibility: hidden;
     bottom:15px;
@@ -48,12 +36,10 @@
     background-color: #0F1011;
     border-radius: 50%;
 }
-/* Add transparency & blur to the loading screen - 824102340079648779 */
 .container-16j22k {
   background-color: rgba(0,0,0,0.8);
   backdrop-filter: blur(5px);
 }
-/* Blurred see through settings - 822405626021675029 */
 .layers-3iHuyZ>.layer-3QrUeG:first-child{
   transform: scale(1) !important;
   opacity: 1 !important;
@@ -66,7 +52,6 @@
 .sidebarRegionScroller-3MXcoP{
   background: transparent;
 }
-/* Fix for see through settings (css above) - 822407939050176547 */
 .titleContainer-2CXtJo {
   border-radius: 10px;
   padding-top: 10px;
@@ -79,7 +64,6 @@
   padding-bottom: 10px;
   top: 5px;
 }
-/* Separate the channels & members list from chat. - 755166410824482937, 764063430076137493 */
 .sidebar-2K8pFh, .chat-3bRxxu, .container-3Mxszk, .container-1D34oG, .applicationStore-1pNvnv {
   border-radius: 15px 15px 0 0 !important
 }
@@ -104,8 +88,43 @@
   left: 25px;
   margin-left: -25px
 }
-/* Minified search bar - 824363024701063198 */
 .search-2oPWTC:not(.open-6_Y_aH) .searchBar-3dMhjb { width: 27px; transition: 0.25s; background-color: transparent;}
 .search-2oPWTC:not(.open-6_Y_aH):hover .searchBar-3dMhjb { width: 240px; transition: 0.25s; background-color: var(--background-tertiary);}
 .search-2oPWTC:not(.open-6_Y_aH) .iconContainer-O4O2CN { transform: scale(1.2); transition: 0.25s;}
 .search-2oPWTC:not(.open-6_Y_aH):hover .iconContainer-O4O2CN { transform: scale(1); transition: 0.25s;}
+.powercord-quickcss .CodeMirror-gutters {
+  border-right: none;
+}
+.powercord-quickcss .CodeMirror-activeline {
+  background-color: var(--background-tertiary);
+}
+.powercord-quickcss > .powercord-quickcss-editor {
+  background-color: var(--background-secondary);
+}
+.wordmark-2iDDfm:after {
+	content: "RainbowWorld";
+	font-size: 16px;
+	font-family: franklin gothic medium;
+	font-weight: 700;
+	color: #f0f0f0;
+	position: absolute;
+	width: 4000px;
+	top: 5px;
+	right: -75px;
+	padding-left: -3px;
+}
+.wordmark-2iDDfm>svg {
+	width: 0px;
+}
+a.pc-anchor[href="https://support.discordapp.com"] {
+	display: none
+}
+svg[name="Nova_Help"] {
+	display: none;
+}
+.pc-iconWrapper {
+	margin: 0;
+}
+.pc-iconWrapper svg {
+	margin: 0px 6px;
+}
