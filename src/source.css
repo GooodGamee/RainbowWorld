@@ -427,7 +427,7 @@ svg[name="Nova_Help"] {
   --titlebarOpacity: 0.6;
 }
 .form-2fGMdU {
-  width: 1640px;
+  width: 1430px !important;
 }
 :root {
         --background-mentioned-side: rgb(114, 137, 218);
