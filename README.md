@@ -13,4 +13,4 @@
 
 Ссылки / Links:
 1. [Powercord](https://powercord.dev)
-2. [Discord Server](https://discord.gg/hEDYs2t) / @GooodGame#7526
+2. [Discord Server](https://discord.gg/hEDYs2t) / @GooodGame#9291
